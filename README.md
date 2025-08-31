@@ -15,10 +15,10 @@
 
 
   ### Tech Toolbox 🛠️
-  Languages: Python, SQL, JavaScript, Ruby  
-  Frameworks & Libraries: PyTorch, Langchain, Vector Databases, Huggingface, SpaCy  
-  Tools: AWS, GCP, Docker, Git  
-  Specialties: LLMs, Generative AI, NLP, Search  
+  Languages: Python, SQL, SAS, Spark
+  Frameworks & Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, PyTorch, PySpark, AutoML, MLflow  
+  Tools: AWS, Sagemaker, Git  
+  Specialties: Data science, ML, Modelling end-to-end, Credit risk, Gradient boosting algorithms
 
 
   ### Education 🎓
