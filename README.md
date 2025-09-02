@@ -1,13 +1,14 @@
 # 👋 Hi, I’m Satya!
 
-## 🚀 Data Science and ML professional focused on business problems to ML problems! 
-👀 I’m interested and passionate in applied AI  
+## 🚀 Data Science and ML professional focused on solving business problems to ML problems! 
 
-🌱 I’m currently looking to learn more about LLMs/RAG applications  
+👀 I’m interested and passionate in applied AI   
 
-💞️ I’m looking to collaborate on anything  
+🌱 I’m currently looking to learn and apply LLMs/RAG applications in professional space    
 
-📫 Feel free to collab here or reach me on [linkedin](https://www.linkedin.com/in/satya-samal-profile)  
+💞️ I’m looking to collaborate and explore ideas   
+
+📫 Feel free to collab here or reach me on [linkedin](https://www.linkedin.com/in/satya-samal-profile)    
 
 
   ### Professional Highlights 🌟
