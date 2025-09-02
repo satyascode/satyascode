@@ -7,7 +7,7 @@
 
 💞️ I’m looking to collaborate on anything  
 
-📫 Feel free to collab here or reach me on [linkedin](linkedin.com/in/satya-samal-profile)  
+📫 Feel free to collab here or reach me on [linkedin](https://www.linkedin.com/in/satya-samal-profile)  
 
 
   ### Professional Highlights 🌟
